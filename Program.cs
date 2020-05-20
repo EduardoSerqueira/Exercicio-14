@@ -37,6 +37,12 @@ namespace Exercicio_quatorze
             }
 
             Console.WriteLine("Total: R${0:f2}", preco);
+
+            //Exemplo de execução
+            //Entrada 
+            //3 e 2
+            //Saída
+            //Total: R$10,00
         }
     }
 }
